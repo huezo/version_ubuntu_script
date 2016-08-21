@@ -40,5 +40,5 @@ cat /proc/version
 echo ""
 echo https://huezohuezo1990.wordpress.com/
 
-#https://huezohuezo1990.wordpress.com/
+#https://huezohuezo1990.wordpress.com/ 
 
