@@ -13,7 +13,7 @@ lsb_release -a
 
 echo 
 
-uname -r   
+uname -a  
 
 echo 
 
