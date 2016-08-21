@@ -1,6 +1,6 @@
 {
   "name": "Version ubuntu script",
   "tagline": "Para saber la version de Ubuntu que usas , Kernel y otros detalles ",
-  "body": "Este es un Script sencillo que te dará la versión de Ubuntu\r\n\r\nTe mostrara el Kernel que usas y si es 32 o 64 bit y otros detalles\r\n\r\n\r\n\r\n![ubuntu.sh](https://huezohuezo1990.files.wordpress.com/2016/08/pantallazo-2016-08-20-21-28-46.png)\r\n\r\n\r\n![huezo.sh](https://huezohuezo1990.files.wordpress.com/2016/08/pantallazo-2016-08-20-21-28-03.png)\r\n\r\n\r\n",
+  "body": "Este es un Script sencillo que te dará la versión de Ubuntu\r\n\r\nTe mostrara el Kernel que usas y si es 32 o 64 bit y otros detalles\r\n\r\n`sudo chmod 777  ubuntu.sh`\r\n\r\n`./ubuntu.sh`\r\n\r\n![ubuntu.sh](https://huezohuezo1990.files.wordpress.com/2016/08/pantallazo-2016-08-20-22-09-01.png)\r\n\r\n\r\n`sudo chmod 777  huezo.sh`\r\n\r\n`./huezo.sh`\r\n\r\n![huezo.sh](https://huezohuezo1990.files.wordpress.com/2016/08/pantallazo-2016-08-20-22-08-47.png)\r\n\r\n\r\n\r\n\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
