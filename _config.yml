@@ -1,0 +1,8 @@
+title: Version ubuntu script
+description: "Para saber la version de Ubuntu que usas , Kernel y otros detalles "
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
